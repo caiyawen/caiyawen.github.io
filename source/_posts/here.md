@@ -1,7 +1,7 @@
 ---
 title: Latest Favorite Song
 date: 2016-04-18 22:50:15
-tags:
+tags: Interest
 ---
 >Try  
 《名扬四海》插曲
